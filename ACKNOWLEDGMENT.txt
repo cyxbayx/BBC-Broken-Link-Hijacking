@@ -1,0 +1,80 @@
+BBC BACKSTAGE SECURITY DISCLOSURE PROGRAM
+VULNERABILITY ACKNOWLEDGMENT
+
+═══════════════════════════════════════════════════════════════
+
+Researcher: Bayu Adji W.
+
+Vulnerability: Broken Link Hijacking (BLH) on BBC News Website
+
+Status: ✅ Acknowledged & Remediated
+
+Official Recognition URL:
+https://www.bbc.com/backstage/security-disclosure-policy/acknowledgements/
+
+═══════════════════════════════════════════════════════════════
+
+VULNERABILITY DETAILS:
+
+Type: Broken Link Hijacking (BLH)
+Platform: BBC News Website (instagram.com)
+Severity: Medium (CVSS 5.4)
+Status: Successfully Remediated
+
+DISCLOSURE TIMELINE:
+
+Report Submitted: 15-01-2026
+Initial Response: 15-01-2026
+Vulnerability Fixed: 05-06-2026
+Public Acknowledgment: 09-06-2026
+
+IMPACT:
+
+Before Remediation:
+- Broken Instagram link pointing to abandoned account
+- Abandoned account username available for re-registration
+- Potential for brand impersonation
+- Risk to audience of misinformation exposure
+
+After Remediation:
+- ✅ Official BBC Instagram account secured
+- ✅ Verified status (blue checkmark) applied
+- ✅ All external links updated and validated
+- ✅ Brand monitoring implemented
+- ✅ Preventive measures in place
+
+RESEARCHER STATEMENT:
+
+This vulnerability disclosure demonstrates the importance of
+regular security audits and proactive monitoring of external
+dependencies. While the technical complexity is low, the
+potential impact on a media organization with millions of
+readers is significant.
+
+I appreciate BBC's professional handling of this disclosure and
+their commitment to securing their digital assets. The quick
+response and comprehensive remediation set a positive example
+for responsible vulnerability disclosure.
+
+BBC RESPONSE STATEMENT:
+
+BBC Backstage acknowledges the vulnerability discovered by
+Bayu Adji W. and recognizes the contribution to BBC's security
+posture. The vulnerability has been successfully remediated,
+and preventive measures have been implemented to prevent
+similar issues in the future.
+
+═══════════════════════════════════════════════════════════════
+
+This acknowledgment represents a successful responsible disclosure
+process and serves as a testament to the importance of security
+research and collaboration between researchers and organizations.
+
+Thank you to BBC Backstage for their professional and responsive
+handling of this vulnerability report.
+
+═══════════════════════════════════════════════════════════════
+
+Listed in BBC Backstage Acknowledgments: 09-06-2026
+Repository Created: 04-07-2026
+Last Updated: 04-07-2026
